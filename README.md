@@ -26,6 +26,7 @@ Develop sql based analytics to deliver detail insights into :
 - **Customer behaviour**
 - **Product performance** 
 - **sales Trends**
+  
 These insight Empower stack holders with key business metrics, enabling strategic decision-making.
 
 
