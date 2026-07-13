@@ -14,9 +14,9 @@ DROP TABLE IF EXISTS  bronze.crm_cust_info;
 create table bronze.crm_cust_info (
 cst_id INT,
 cst_key NVARCHAR(50),
-cst_fistname NVARCHAR(50),
+cst_firstname NVARCHAR(50),
 cst_lastname NVARCHAR(50),
-cst_material_status NVARCHAR(50),
+cst_marital_status NVARCHAR(50),
 cst_gndr NVARCHAR(50),
 cst_create_date DATE
 );
